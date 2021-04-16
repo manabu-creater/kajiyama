@@ -63,12 +63,11 @@ header a {
 
 .details a {
   font-size: 20px;
-  margin-top: 5;
+  margin-top: 5px;
 }
-1
+
 /* ここからcontens */
 .contents {
-  height: 100%;
   text-align: center;
   padding-bottom: 50px;
 }
@@ -307,4 +306,4 @@ footer p {
 .fa-line {
   color: #00c300;
   background-color: white;
-}　
+}
