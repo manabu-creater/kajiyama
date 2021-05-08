@@ -99,25 +99,15 @@ header a {
 .top {
   display: flex;
   justify-content: center;
-}
-
-.top-content {
-  width: 40vw;
-  height: 40%;
-  overflow: hidden;
-  overflow: scroll;
   margin-bottom: 100px;
 }
 
-.top-content2 {
+.top-content .top-content2 {
   width: 40vw;
   height: 40%;
-  overflow: hidden;
-  overflow: scroll;
-  margin-bottom: 100px;
 }
 
-.top-content h1, .top-content2 h1 {
+.top-title {
   font-size: 35px;
 }
 
@@ -307,3 +297,4 @@ footer p {
   color: #00c300;
   background-color: white;
 }
+
